@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\bin\Debug\Probability_Assingment.exe.config
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\bin\Debug\Probability_Assingment.exe
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\bin\Debug\Probability_Assingment.pdb
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\obj\Debug\Probability_Assingment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\obj\Debug\Probability_Assingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\obj\Debug\Probability_Assingment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\obj\Debug\Probability_Assingment.exe
+C:\Users\user\Desktop\Probability Assingment\Probability_Assingment\obj\Debug\Probability_Assingment.pdb
